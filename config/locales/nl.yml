@@ -1,0 +1,70 @@
+nl:
+  info:
+    title: 
+      xp: "Werk Ervaring"
+    school:
+      lewagon: "Code school leert webdevelopment met als hoofd backend taal Ruby. "
+      regio: "Niets te vertellen over deze school."
+      amstel: "Niets te vertellen over deze school."
+    xp:
+      nh: "Bedienings medewerker/ Gastheer. vrantwoordelijk voor ontvangst gasten."
+      bijen: "Dit was mijn allereerste bijbaantje. Ik begon als logistiek/magazijn medewerker."
+      post: "Process operator verantwoordelijk voor het sorteren van post en het controleren van het productieproces." 
+      bart: "Verkoopmedewerker verantwoordelijkvoor het verkopen van speelgoed."
+      kvc: "Profvoetballer in het belofte team van KVC Westerlo."
+      vvv: "Profvoetballer in het belofte team van VVV Venlo"
+      levi: "Verkoopmedewerker verantwoordelijk voor verkoop, en voorraad beheer. "
+      damp: "Beheerder/Barman verantwoordelijk voor de administratie, voorraad beheer en verkoop."
+      rand: "UUitzendkracht in verkoop, logistiek en horeca."
+      healthy: "Experience designer verantwoordelijk voor het creeren van een prototype"
+    paragraph: "Ik heb veel werkervaring. Op Mijn 15e kreeg ik mijn eerste bijbaantje in de bijenkorf. nsequatur iusto eos omnis culpa, quisquam praesentium quia quos, soluta nisi ullam ratione enim natus libero iste nulla sint. Eos, voluptas! Consequuntur.En dit is een stukje nederlandse tekst om mijn site op te vullen er moet hier veel meer tekst in dit moet je maar ff opvullen  "
+    educationtitle: "School"
+    education:
+      paragraph: "Gedwongen op jonge leeftijd een studie richting te kiezen koos ik voor iets dat mij bekend was en dat was detail-handel. dat bleek achteraf toch niet te zijn wat ik wil en heb ik besloten mezelf om te scholen tot webdeveloper. iets wat ik oprecht leuk vind en waar mijn interesses liggen."
+    motivationtitle: "Over mezelf"
+    motivationdes: "Ik ben een Junior webdeveloper met een solide begrip voor alle aspecten van front-end, backend en database development. Ik heb een sterk verlangen om mijn developers vaardigheden verder uit te breiden.   "
+    skillstitle: "Vaardigenheden"
+    skillsdes: "Dit zijn de programmeertalen/frameworks die ik beheers. Als junior developer bouw ik webapplicaties met als basis Ruby. Ik heb solide kennis van de mvc ontwerpmethode en een basisbegrip voor de CRUD methodes. ook kan ik geavanceerde css3 technieken toepassen en het implementeren van Api gems en maak ik gebruik van frameworks. "
+    projects: 
+      title: "Projecten"
+      ruby: "RubyRubyRuby is het eindproject van de coding bootcamp. Dit project is bedoeld voor de RoR community. Op deze site kun je onder anders als developer reageren op vacatures die zijn geplaats door RoR werkgevers ook kun je andere developers vragen om hulp mocht je vastlopen met je code."
+      healthy: "HealthyWorkers is een bedrijf dat streeft naar het creeren van gezonde werkomgevingen en gezonde/gelukkige werknemers.."
+
+  
+  header: 
+    found: "OP ZOEK NAAR EEN RUBY DEVELOPER?"
+    gevonden: "Zoek niet verder! want ik ben gevonden"
+    who: "Dit ben ik"
+    env: "Mijn developer tools"
+  
+
+  index:
+    about: 
+      title: "JUNIOR FULLSTACK RUBY ON RAILS DEVELOPER UIT AMSTERDAM"
+      p1: "Hallo mijn naam is Daemien Ho. In 2016 slaagde ik van als J.fullstack developer van Le Wagon(THE bootcamp coding school.) En nu kan ik coole websites bouwen"
+      p2: "Voor mijn developers cariere was ik druk op zoek naar mijn plek in de wereld. En wat blijkt!? Mijn plek is achter de computer. Waar ik eigenlijk altijd al was. En als ik daar niet was dan was ik aan het trainen om de nieuwe Roberto Carlos te worden. Voetbal is nog steeds een van mijn grootste passies die ik nu vaker binnen op de playstation beoefen dan buiten op het veld. Maar voor een sportieve activiteit kan je bij mij altijd aankloppen."
+      p3: "Nu ben ik naar een leuke plek waar ik coding skills kan toepassen en verder ontwikkelen, een plek waar ik de hele dag mag coden en een plek waar ik mag juichen als ik een geweldig stukje code heb geschreven. (ja.. soms juich ik na een stukje code te hebben geschreven). Het uit denken van een prototype en het coden van mock ups word ik blij van "
+      p4: "Dus... Geef mij een mock up/pitch en ik bouw die shit voor je! or I will die trying. Ik ben namelijk een superharde werker die doorgaat tot het uiterste"
+    
+  card:
+      cv: "Neem een kijkje op mijn CV. Dit zal je laten zien hoe geweldig ik ben als een ruby on rails developer."
+      portofolio: "Neem ook eens een kijkje in mijn portfolio. Hier wordt uiteraard nog altijd aan gewerkt. Alles is constant aan het veranderen dus houd het goed in de gaten anders mis je nog weleens wat. dit is zoals gerbuikelijk tijdens de devlopment periode een voorbeeld stuk tekst om de layout van de pagina te bekijken en te editen naar mijn persoonlijke voorkeur van design. wat een onzin allemaal.. geeft je groot gelijk als je denkt dat dit allemaal onzin is dus nu zal ik stoppen met "
+      contact: "Voor vragen kunt je mij bereiken op het nummer 0611223344 of mailen naar dimmaaah@live.nl of verstuur gemakkelijk via mijn form een directe mail naar mijn inbox."
+    
+
+  project:
+    rubyrubyruby_p1: "RubyRubyRuby. Was mijn eindproject van de Le Wagon coding school. Dit gemaakt voor de ruby community. Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. Als lead developer kreeg ik de opdracht om het project te ontwikkelen. Tijdens het ontwikkelen heb ik gebruik gemaakt van de scrum methode waarbij wij elke ochtend een kleine meeting hebben georganiseerd in ons lokaal en zo de doelen van de dag en de palnning van de week besproken."
+    rubyrubyruby_p2: "Met al het gemakt van de wereld een baan vinden solliciteren en cv oploaden. dat kan op rubyrubyruby.com."
+    rubyrubyruby_p3: "Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developer ook al waren wij nog lansg niet zo goed ontwikkeld,, we hebben alsnog het beste ervan gemaakt om hert project binnen de deadline af te ronden en een geweldige presentatie neer te zetten."
+    healthyworkers: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt veniam iste consectetur dicta facere ad amet quo autem vitae? Dolorem fugit eveniet, minima distinctio ipsa, asperiores. Itaque exercitationem quae reiciendis."
+    healthyworkers_p1: "Kijk eens hoe speciaal deze fucking lorem tekst is Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente maxime ut in nemo placeat, minus veritatis repudiandae non rerum. Iste deserunt ullam eius modi accusamus facilis, optio, placeat delectus. Illo."
+    healthyworkers_p2: "nog meer shit Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus rem, esse autem, asperiores corporis atque unde nihil odio in expedita quisquam a est earum nobis tempore soluta perferendis quasi amet!"
+    healthyworkers_p3: "En hert laatste beetje Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis qui vitae beatae laborum hic, alias perspiciatis accusantium commodi. Necessitatibus vero quae rem? Dolorum architecto, voluptas odit consequuntur, tempora incidunt illum."
+
+  knop:
+    bezoek: "Ga naar RubyRubyRuby"
+    bezoek2: "Ga naar HealthyWorkers"
+
+
+    # By working to improve your food, body, mind, and surroundings. The dashboard lets you monitor the results in real time, and gives the insights you need to make continuous improvements.
+
