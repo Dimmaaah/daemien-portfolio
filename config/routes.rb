@@ -1,11 +1,9 @@
 Rails.application.routes.draw do
+  get 'my/curriculum'
+
   get 'projects/rubyrubyruby'
 
   get 'projects/healthyworkers'
-
-  get 'home/index'
-
-  get 'home/curriculum'
 
   root 'home#index'
 

@@ -1,7 +1,4 @@
 class HomeController < ApplicationController
-  def index
-  end
-
-  def curriculum
-  end
+	def index
+	end
 end

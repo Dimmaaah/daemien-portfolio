@@ -1,2 +1,51 @@
-<h1>Home#index</h1>
-<p>Find me in app/views/home/index.html.erb</p>
+<div class="picture_me">
+  <div class="container">
+  <H1 class="welcome"><%= t 'header.found' %></H1>
+    <p><a id="readmore" href="" class="btn btn-primary center"><%= t 'header.gevonden' %>.</a></p>
+  </div>
+</div>
+<!-- 
+<a href="#" onclick="this.style.backgroundColor='#009900';this.style.color='#FFFFFF';">Paint it green</a> -->
+<section>
+<div class="white">
+  <h2 id="about_me"><%= t 'header.who' %></h2>
+  <div class="container">
+    <div id="section_about" class="row section_about" >
+      
+      <div class="col-md-6 col-sm-12">
+      <div class="rnder"></div>
+        <%= image_tag("dims.png", :alt => "Me signing a contract", class: "pro_pic") %>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <p><h1><%= t 'index.about.title' %></h1></p>
+        <br><br>
+        <p><%= t 'index.about.p1' %></p>
+        <p><%= t 'index.about.p2' %></p>
+        <p><%= t 'index.about.p3' %></p>
+        <p><%= link_to "Bekijk Mijn CV!", my_curriculum_path, class: "btn btn-danger pull-right" %></p>
+      </div>
+    </div>
+  </div>
+</div>
+   <div class="grey">
+      <h2 id="tools"><%= t 'header.env' %></h2>
+
+  <div id="div_icons" class="div_icons grey">
+    <ul class="icons">
+      <li> <i class="devicon-html5-plain colored"></i></li>
+      <li> <i class="devicon-ruby-plain colored"></i></li>
+      <li> <i class="devicon-rails-plain colored"></i></li>
+      <li> <i class="devicon-css3-plain colored"></i></li>
+      <li> <i class="devicon-bootstrap-plain colored"></i></li>
+      <li> <i class="devicon-ubuntu-plain colored"></i></li>
+      <li> <i class="devicon-atom-original-wordmark colored"></i></li>
+      <li> <i class="devicon-heroku-plain-wordmark colored"></i></li>
+      <li> <i class="devicon-jquery-plain-wordmark colored"></i></li>
+      <li> <i class="devicon-postgresql-plain-wordmark colored"></i></li>
+      <li> <i class="devicon-trello-plain-wordmark"></i></li>
+      <li> <i class="devicon-vim-plain"></i></li>
+      <li> <i class="devicon-firefox-plain-wordmark colored"></i></li>
+    </ul>
+  </div>
+   </div>
+</section>
