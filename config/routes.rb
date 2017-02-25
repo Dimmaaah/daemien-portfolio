@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 	scope ":locale" do
 	  get 'my/curriculum'
+	  get 'projects/index'
 
 	  get 'projects/rubyrubyruby'
 
