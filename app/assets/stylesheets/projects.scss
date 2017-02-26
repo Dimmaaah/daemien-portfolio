@@ -2,7 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-
+.page_projects{
+  margin-bottom: 40px;
+}
 .project_banner {
   background: image-url('project.jpg');
   background-size: cover;
@@ -31,4 +33,17 @@
   width: 100%;
   background-color: white;  
   margin-top: 0px;
+}
+.projects a {
+  text-decoration: none;
+  font-style: italic;
+  color: black;
+}
+.projects a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.ruimte {
+  margin-top: 70px;
 }

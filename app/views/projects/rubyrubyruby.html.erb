@@ -1,14 +1,19 @@
-<div class="white">	
+<div class="white page_projects">	
 	<div class="container">
-		<h1>RubyRubyRuby</h1>
 		<div class="projects">
+		<%= link_to "http://www.rubyrubyruby.com" do %>
+		<h1><p><%= t 'project.rubyrubyruby' %></p></h1>
 			<img class="card-img-top" src="<%= image_path('rubyrubyruby.png') %>" />
+			<% end %>
+		</div>
+	<div class="container">
+		<h3><p><%= t 'project.rubyrubyruby_p1' %></p></h3> 
+		<br>
+		<h4><p><%= t 'project.rubyrubyruby_p2' %></p></h4> 
+		<p><%= t 'project.rubyrubyruby_p3' %></p>
 		</div>
 
-		<p><%= t 'project.rubyrubyruby' %></p>
-		<p><%= t 'project.rubyrubyruby_p2' %></p>
-		<p><%= t 'project.rubyrubyruby_p3' %></p>
-
-		<%= link_to(t('knop.bezoek'), "http://rubyrubyruby.com", class: "btn btn-danger pull-right") %>
+		<%= link_to(t('knop.bezoek'), "http://rubyrubyruby.com", class: "btn btn-danger pull-right ruimte") %>
+		<br><br>
 	</div>
 </div>

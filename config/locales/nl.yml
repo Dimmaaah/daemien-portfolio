@@ -43,26 +43,27 @@ nl:
       title: "JUNIOR FULLSTACK RUBY ON RAILS DEVELOPER UIT AMSTERDAM"
       p1: "Hallo mijn naam is Daemien Ho. In 2016 slaagde ik van als J.fullstack developer van Le Wagon(THE bootcamp coding school.) En nu kan ik coole websites bouwen"
       p2: "Voor mijn developers cariere was ik druk op zoek naar mijn plek in de wereld. En wat blijkt!? Mijn plek is achter de computer. Waar ik eigenlijk altijd al was. En als ik daar niet was dan was ik aan het trainen om de nieuwe Roberto Carlos te worden. Voetbal is nog steeds een van mijn grootste passies die ik nu vaker binnen op de playstation beoefen dan buiten op het veld. Maar voor een sportieve activiteit kan je bij mij altijd aankloppen."
-      p3: "Nu ben ik naar een leuke plek waar ik coding skills kan toepassen en verder ontwikkelen, een plek waar ik de hele dag mag coden en een plek waar ik mag juichen als ik een geweldig stukje code heb geschreven. (ja.. soms juich ik na een stukje code te hebben geschreven). Het uit denken van een prototype en het coden van mock ups word ik blij van "
+      p3: "Nu ben ik naar een leuke plek waar ik coding skills kan toepassen en verder ontwikkelen, een plek waar ik de hele dag mag coden en een plek waar ik mag juichen als ik een geweldig stukje code heb geschreven. (ja.. soms doe ik dat). Het uit denken van een prototype en het coden van mock ups word ik blij van "
       p4: "Dus... Geef mij een mock up/pitch en ik bouw die shit voor je! or I will die trying. Ik ben namelijk een superharde werker die doorgaat tot het uiterste"
     
   card:
       cv: "Neem een kijkje op mijn CV. Dit zal je laten zien hoe geweldig ik ben als een ruby on rails developer."
-      portofolio: "Neem ook eens een kijkje in mijn portfolio. Hier wordt uiteraard nog altijd aan gewerkt. Alles is constant aan het veranderen dus houd het goed in de gaten anders mis je nog weleens wat. dit is zoals gerbuikelijk tijdens de devlopment periode een voorbeeld stuk tekst om de layout van de pagina te bekijken en te editen naar mijn persoonlijke voorkeur van design. wat een onzin allemaal.. geeft je groot gelijk als je denkt dat dit allemaal onzin is dus nu zal ik stoppen met "
+      portofolio: "Neem ook eens een kijkje in mijn portfolio. Hier wordt uiteraard nog altijd aan gewerkt. Alles is constant aan het veranderen dus houd het goed in de gaten anders mis je nog weleens wat. dit is zoals gebuikelijk tijdens de devlopment periode een voorbeeld stuk tekst om de layout van de pagina te bekijken en te editen naar mijn persoonlijke voorkeur van design. wat een onzin allemaal.. geeft je groot gelijk als je denkt dat dit allemaal onzin is dus nu zal ik stoppen met "
       contact: "Voor vragen kunt je mij bereiken op het nummer 0611223344 of mailen naar dimmaaah@live.nl of verstuur gemakkelijk via mijn form een directe mail naar mijn inbox."
     
 
   project:
-    rubyrubyruby_p1: "RubyRubyRuby. Was mijn eindproject van de Le Wagon coding school. Dit gemaakt voor de ruby community. Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. Als lead developer kreeg ik de opdracht om het project te ontwikkelen. Tijdens het ontwikkelen heb ik gebruik gemaakt van de scrum methode waarbij wij elke ochtend een kleine meeting hebben georganiseerd in ons lokaal en zo de doelen van de dag en de palnning van de week besproken."
-    rubyrubyruby_p2: "Met al het gemakt van de wereld een baan vinden solliciteren en cv oploaden. dat kan op rubyrubyruby.com."
-    rubyrubyruby_p3: "Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developer ook al waren wij nog lansg niet zo goed ontwikkeld,, we hebben alsnog het beste ervan gemaakt om hert project binnen de deadline af te ronden en een geweldige presentatie neer te zetten."
-    healthyworkers: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt veniam iste consectetur dicta facere ad amet quo autem vitae? Dolorem fugit eveniet, minima distinctio ipsa, asperiores. Itaque exercitationem quae reiciendis."
-    healthyworkers_p1: "Kijk eens hoe speciaal deze fucking lorem tekst is Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente maxime ut in nemo placeat, minus veritatis repudiandae non rerum. Iste deserunt ullam eius modi accusamus facilis, optio, placeat delectus. Illo."
-    healthyworkers_p2: "nog meer shit Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus rem, esse autem, asperiores corporis atque unde nihil odio in expedita quisquam a est earum nobis tempore soluta perferendis quasi amet!"
-    healthyworkers_p3: "En hert laatste beetje Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis qui vitae beatae laborum hic, alias perspiciatis accusantium commodi. Necessitatibus vero quae rem? Dolorum architecto, voluptas odit consequuntur, tempora incidunt illum."
+    rubyrubyruby: "RubyRubyRuby."
+    rubyrubyruby_p1: "Als Ruby developer Met al het gemakt van de wereld vacatures vinden die voor jouw van toepassing zijn. dat kan op rubyrubyruby.com. Na het aanmaken van een account of in te loggen met je linkedin. kun je een profiel aanmaken, een cv uploaden of vacature uploaden, en je kunt de ruby community om hulp vragen."
+    rubyrubyruby_p2: "Tijdens het creeren van dit project heb ik geleerd om goed samen te werken door goed gebruik te maken van github. Onderandere door branches te maken, en te werken met pull requests en niet rechtstreeks op de masterbranch te pushen.  ook heb ik een beetje van de scrum methode geproeft door een vereenvoudigde versie toe te passen wat inhield dat we elke dag een duidelijke planning maakten en we goed gebruik maakten van trello. dit project heeft me ook een goed begrip van de mvc methode, crud methodes en dependencies "
+    rubyrubyruby_p3: "Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. RubyRubyRuby Was mijn eindproject van de Le Wagon coding school. Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developers. bedankt.. het was mij een waar genoegen"
+    healthyworkers: "HealthyWorkers"
+    healthyworkers_p1: "HealthyWorkers creeert groene en gezonde kantoren voor actieve, productieve en gelukkige werknemers binnen corporate bedrijven."
+    healthyworkers_p2: "Tijdens het creeeren van een prototype app voor healthy workers als xp designer heb ik als developer de kans gekregen om deel uit te maken van het process voorafgaand aan het coden van de applicatie."
+    healthyworkers_p3: ""
 
   knop:
-    bezoek: "Ga naar RubyRubyRuby"
+    bezoek: "Bekijk de Code op Github"
     bezoek2: "Ga naar HealthyWorkers"
 
 

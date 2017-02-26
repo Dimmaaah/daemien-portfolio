@@ -23,6 +23,9 @@ Rails.application.configure do
   # config.assets.css_compressor = :sass
 
   # Do not fallback to assets pipeline if a precompiled asset is missed.
+  
+#these lines are necessary to get things to work on heroku
+#deze 2 regels code onthouden voor deployment op heroku.
   config.assets.compile = true
   config.serve_static_assets = true
   # `config.assets.precompile` and `config.assets.version` have moved to config/initializers/assets.rb
