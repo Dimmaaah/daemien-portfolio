@@ -46,9 +46,7 @@ body {
 
 .grey {
   background-color: #E1E1E1;
-  margin-top: 0px;
   -webkit-margin-bottom: 0px;
-  margin-bottom: 0px;
   min-height: 70px;
   -webkit-min-height: 70px;
   text-align: center;
@@ -78,4 +76,8 @@ body {
 	width: 100%;
 	background-color: black;
 	height: 100px;
+}
+
+.transparant {
+  color: transparent;
 }

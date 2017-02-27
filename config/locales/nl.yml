@@ -58,13 +58,14 @@ nl:
     rubyrubyruby_p2: "Tijdens het creeren van dit project heb ik geleerd om goed samen te werken door goed gebruik te maken van github. Onderandere door branches te maken, en te werken met pull requests en niet rechtstreeks op de masterbranch te pushen.  ook heb ik een beetje van de scrum methode geproeft door een vereenvoudigde versie toe te passen wat inhield dat we elke dag een duidelijke planning maakten en we goed gebruik maakten van trello. dit project heeft me ook een goed begrip van de mvc methode, crud methodes en dependencies "
     rubyrubyruby_p3: "Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. RubyRubyRuby Was mijn eindproject van de Le Wagon coding school. Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developers. bedankt.. het was mij een waar genoegen"
     healthyworkers: "HealthyWorkers"
-    healthyworkers_p1: "HealthyWorkers creeert groene en gezonde kantoren voor actieve, productieve en gelukkige werknemers binnen corporate bedrijven."
-    healthyworkers_p2: "Tijdens het creeeren van een prototype app voor healthy workers als xp designer heb ik als developer de kans gekregen om deel uit te maken van het process voorafgaand aan het coden van de applicatie."
-    healthyworkers_p3: ""
+    healthyworkers_p1: "HealthyWorkers creeert groene en gezonde kantoren voor actieve, productieve en gelukkige werknemers binnen corporate bedrijven. B.Amsterdam is een prachtig examplaar"
+    healthyworkers_p2: "De doelstelling was om binnen een week een prototype te realiseren en feedback te ontvangen van potentiele gebruikers. Dit hebben wij onderandere bereikt door methodes van een google venture design sprint te implementeren. Tijdens deze week heb ik een goed inzicht gekregen van verschillende aspecten van development met de nadruk op expierence design. Hier heb ik waardevolle technieken geleerd zoals tijdbespaarde methodes om grote obstakels te tackelen, efficiente manieren om snel ideeen te genereren, en nog veel meer."
+    healthyworkers_p3: "Je krijgt niet vaak de kans om als developer deel uit te maken van het process voorafgaand aan het coden van de applicatie. Nu kreeg ik de kans om als experience designer en mee te werken aan een design van een breinkrakend project en heb daar onwijs veel geleerd "
 
   knop:
     bezoek: "Bekijk de Code op Github"
     bezoek2: "Ga naar HealthyWorkers"
+    bezoek3: "Meer informatie vind je op de blog van gijs."
 
 
     # By working to improve your food, body, mind, and surroundings. The dashboard lets you monitor the results in real time, and gives the insights you need to make continuous improvements.

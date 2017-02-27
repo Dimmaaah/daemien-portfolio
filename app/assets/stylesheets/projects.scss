@@ -3,7 +3,8 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 .page_projects{
-  margin-bottom: 40px;
+  margin-bottom: 0px;
+  min-height: 100vh;
 }
 .project_banner {
   background: image-url('project.jpg');
@@ -42,8 +43,4 @@
 .projects a:hover {
   text-decoration: none;
   color: black;
-}
-
-.ruimte {
-  margin-top: 70px;
 }
