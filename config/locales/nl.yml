@@ -3,32 +3,32 @@ nl:
     title: 
       xp: "Werk Ervaring"
     school:
-      lewagon: "Code school leert webdevelopment met als hoofd backend taal Ruby. "
-      regio: "Niets te vertellen over deze school."
+      lewagon: "12 weken intensief fullstack development met HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails"
+      regio: "Ondernemend detailhandel "
       amstel: "Niets te vertellen over deze school."
     xp:
       nh: "Bedienings medewerker/ Gastheer. vrantwoordelijk voor ontvangst gasten."
       bijen: "Dit was mijn allereerste bijbaantje. Ik begon als logistiek/magazijn medewerker."
       post: "Process operator verantwoordelijk voor het sorteren van post en het controleren van het productieproces." 
-      bart: "Verkoopmedewerker verantwoordelijkvoor het verkopen van speelgoed."
+      bart: "Stage/Verkoopmedewerker verantwoordelijk voor de verkoop."
       kvc: "Profvoetballer in het belofte team van KVC Westerlo."
       vvv: "Profvoetballer in het belofte team van VVV Venlo"
       levi: "Verkoopmedewerker verantwoordelijk voor verkoop, en voorraad beheer. "
       damp: "Beheerder/Barman verantwoordelijk voor de administratie, voorraad beheer en verkoop."
-      rand: "UUitzendkracht in verkoop, logistiek en horeca."
-      healthy: "Experience designer verantwoordelijk voor het creeren van een prototype"
-    paragraph: "Ik heb veel werkervaring. Op Mijn 15e kreeg ik mijn eerste bijbaantje in de bijenkorf. nsequatur iusto eos omnis culpa, quisquam praesentium quia quos, soluta nisi ullam ratione enim natus libero iste nulla sint. Eos, voluptas! Consequuntur.En dit is een stukje nederlandse tekst om mijn site op te vullen er moet hier veel meer tekst in dit moet je maar ff opvullen  "
+      rand: "Uitzendkracht in verkoop, logistiek en horeca."
+      healthy: "Experience designer mede verantwoordelijk voor het creëren van een prototype applicatie"
+    paragraph: "Op Mijn 15e kreeg ik mijn eerste bijbaantje in de bijenkorf. Sinds dien ben ik vooral actief geweest in de sales/detailhandel, logistiek en horeca. Ook ben ik heel actief geweest op sportgebied."
     educationtitle: "School"
     education:
-      paragraph: "Gedwongen op jonge leeftijd een studie richting te kiezen koos ik voor iets dat mij bekend was en dat was detail-handel. dat bleek achteraf toch niet te zijn wat ik wil en heb ik besloten mezelf om te scholen tot webdeveloper. iets wat ik oprecht leuk vind en waar mijn interesses liggen."
+      paragraph: "Gedwongen op jonge leeftijd een studie richting te kiezen koos ik voor iets dat mij bekend was en dat was detail-handel. Dat bleek achteraf toch niet te zijn wat ik wil en heb ik besloten mezelf om te scholen tot webdeveloper om een carrière te starten in de IT waar mijn intresses liggen."
     motivationtitle: "Over mezelf"
     motivationdes: "Ik ben een Junior webdeveloper met een solide begrip voor alle aspecten van front-end, backend en database development. Ik heb een sterk verlangen om mijn developers vaardigheden verder uit te breiden.   "
     skillstitle: "Vaardigenheden"
-    skillsdes: "Dit zijn de programmeertalen/frameworks die ik beheers. Als junior developer bouw ik webapplicaties met Ruby als backend taal. Ik heb solide kennis van de mvc ontwerpmethode en een basisbegrip voor de CRUD methodes. ook kan ik geavanceerde css3 technieken toepassen en het implementeren van Api gems en maak ik gebruik van frameworks. "
+    skillsdes: "Dit zijn de programmeertalen/frameworks die ik beheers. Als junior developer bouw ik webapplicaties met Ruby als backend taal. Ik heb solide kennis van de mvc ontwerpmethode en een basisbegrip voor de CRUD methodes. "
     projects: 
       title: "Projecten"
       ruby: "RubyRubyRuby is het eindproject van de coding bootcamp. Dit project is bedoeld voor de RoR community. Op deze site kun je onder anders als developer reageren op vacatures die zijn geplaats door RoR werkgevers ook kun je andere developers vragen om hulp mocht je vastlopen met je code."
-      healthy: "HealthyWorkers is een bedrijf dat streeft naar het creeren van gezonde werkomgevingen en gezonde/gelukkige werknemers.."
+      healthy: "HealthyWorkers is een bedrijf dat streeft naar het creëren van gezonde werkomgevingen en gezonde/gelukkige werknemers.."
 
   
   header: 
@@ -53,11 +53,11 @@ nl:
     
 
   project:
-    description_1: "Tijdens mijn tijd als student van Le Wagon heb ik een website gemaakt voor ruby developers."
+    description_1: "Als Ruby developer Met al het gemakt van de wereld vacatures vinden die voor jou relevant zijn. dat kan op rubyrubyruby.com."
     rubyrubyruby: "RubyRubyRuby."
     rubyrubyruby_p1: "Als Ruby developer Met al het gemakt van de wereld vacatures vinden die voor jouw van toepassing zijn. dat kan op rubyrubyruby.com. Na het aanmaken van een account of in te loggen met je linkedin. kun je een profiel aanmaken, een cv uploaden of vacature uploaden, en je kunt de ruby community om hulp vragen."
     rubyrubyruby_p2: "Tijdens het creëren van dit project heb ik geleerd om goed samen te werken door goed gebruik te maken van github. Onder andere door branches te maken, en te werken met pull requests en niet rechtstreeks op de masterbranch te pushen.  ook heb ik een beetje van de scrum methode geproeft door een vereenvoudigde versie toe te passen wat inhield dat we elke dag een duidelijke planning maakten en we goed gebruik maakten van trello. dit project heeft me ook een goed begrip van de mvc methode, crud methodes en dependencies "
-    rubyrubyruby_p3: "Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. RubyRubyRuby Was mijn eindproject van de Le Wagon coding school. Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developers. bedankt.. het was mij een waar genoegen"
+    rubyrubyruby_p3: "RubyRubyRuby Was mijn eindproject van de Le Wagon coding school. Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developers. bedankt.. het was mij een waar genoegen. Mijn doel is om dit project "
     description_2: "Mee gewerkt als xp designer aan een design sprint. Om een prototype applicatie te uit te denken en designen."
     healthyworkers: "HealthyWorkers"
     healthyworkers_p1: Met als doeleind; gezonde, gelukkige en productieve werknemers, creëert HealthyWorkers een groene en gezonde werkomgeving voor corporate bedrijven."
