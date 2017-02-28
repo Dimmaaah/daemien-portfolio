@@ -7,15 +7,18 @@
 			<% end %>
 		</div>
 	<div class="container">
-		<h3><p><%= t 'project.healthyworkers_p1' %></p></h3> 
-		<br>
-		<h4><p><%= t 'project.healthyworkers_p2' %></p></h4> 
-		<p><%= t 'project.healthyworkers_p3' %></p>
-		<hr>
-		<p><%= t 'knop.bezoek3' %><%= link_to "http://bssa.nu/impression-design-sprint-bssa-lab-healthy-workers/", image_tag("bssa.png") %>
-		</p>
+		<div class="project-information">
+			<h3><p><%= t 'project.healthyworkers_p1' %></p></h3> 
+			<br>
+			<p><%= t 'project.healthyworkers_p2' %></p>
+			<p><%= t 'project.healthyworkers_p3' %></p>
 		</div>
+			<%= link_to(t('knop.bezoek2'), "http://healthyworkers.nl", class: "btn btn-danger pull-right") %>
+<br><br><hr>
+			<p><%= t 'knop.bezoek3' %><%= link_to "http://bssa.nu/impression-design-sprint-bssa-lab-healthy-workers/" do %> BSSA<% end %>
+			</p>
+			</div>
 
-		<%= link_to(t('knop.bezoek2'), "http://healthyworkers.nl", class: "btn btn-danger pull-right ruimte") %>
-	</div>
+			
+		</div>
 </div>
