@@ -1,6 +1,8 @@
 nl:
   info:
+    bday: "16 Maart 1991"
     title: 
+
       xp: "Werk Ervaring"
     school:
       lewagon: "12 weken intensief fullstack development met HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku en Ruby on Rails"
@@ -22,7 +24,7 @@ nl:
     education:
       paragraph: "Gedwongen op jonge leeftijd een studie richting te kiezen koos ik voor iets dat mij bekend was en dat was detail-handel. Dat bleek achteraf toch niet te zijn wat ik wil en heb ik besloten mezelf om te scholen tot webdeveloper om een carrière te starten in de IT waar mijn intresses liggen."
     motivationtitle: "Over mezelf"
-    motivationdes: "Ik ben een Junior webdeveloper met een solide begrip voor alle aspecten van front-end, backend en database development. Ik heb een sterk verlangen om mijn developers vaardigheden verder uit te breiden.   "
+    motivationdes: "Ik ben een Junior webdeveloper met een begrip voor alle aspecten van front-end, backend en database development. Ik heb een sterk verlangen om mijn developers vaardigheden verder uit te breiden. En mezelf te specializeren in Ruby development. In de verre toekomst hoop ik deel uit te maken van open source projecten.   "
     skillstitle: "Vaardigenheden"
     skillsdes: "Dit zijn de programmeertalen/frameworks die ik beheers. Als junior developer bouw ik webapplicaties met Ruby als backend taal. Ik heb solide kennis van de mvc ontwerpmethode en een basisbegrip voor de CRUD methodes. "
     projects: 
@@ -61,7 +63,7 @@ nl:
     description_2: "Mee gewerkt als xp designer aan een design sprint. Om een prototype applicatie te uit te denken en designen."
     healthyworkers: "HealthyWorkers"
     healthyworkers_p1: Met als doeleind; gezonde, gelukkige en productieve werknemers, creëert HealthyWorkers een groene en gezonde werkomgeving voor corporate bedrijven."
-    healthyworkers_p2: "Ik kreeg ik de kans om als experience designer mee te werken aan een design van een breinkrakend project namelijk het designen van een appdashboard dat eem passemd advies kan geven over het welzijn van de gebruiker dmv data input van sensoren en input van de gebruiker. De doelstelling was om binnen 5 dagen een prototype te realiseren en feedback te ontvangen van potentiële gebruikers. Deze doelstelling hebben wij bereikt door methodes van google venture design sprint te implementeren"
+    healthyworkers_p2: "Ik kreeg ik de kans om als experience designer mee te werken aan een design van een breinkrakend project namelijk het designen van een appdashboard dat eem passend advies geeft over het welzijn van de gebruiker dmv data input van sensoren en input van de gebruiker. De doelstelling was om binnen 5 dagen een prototype te realiseren en feedback te ontvangen van potentiële gebruikers. Deze doelstelling hebben wij bereikt door methodes van google venture design sprint te implementeren"
     healthyworkers_p3: "Tijdens deze week heb ik onwijs veel geleerd en een goed inzicht gekregen van verschillende aspecten van development, met de nadruk op expierence design. Hier heb ik waardevolle technieken geleerd zoals tijdbespaarde methodes om grote obstakels te tackelen, efficiënte manieren om snel ideeën te genereren, en nog veel meer."
   
 
