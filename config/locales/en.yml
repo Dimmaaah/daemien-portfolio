@@ -20,4 +20,78 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  info:
+    title: 
+      xp: "Work Experience"
+    school:
+      lewagon: "12 weeks intense coding learning fullstack development with HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails"
+      regio: "Retail Business & Management "
+      amstel: "Nothing to say about this school"
+    xp:
+      nh: "Hospitality "
+      bijen: "Dit was mijn allereerste bijbaantje. Ik begon als logistiek/magazijn medewerker."
+      # post: "Process operator verantwoordelijk voor het sorteren van post en het controleren van het productieproces." 
+      bart: "Trainee salesman responsible for selling toys."
+      kvc: "Professional soccer player in the second team of KVC Westerlo."
+      vvv: "Professional soccer player in the second team of VVV Venlo"
+      levi: "Salesman responsible for inventory control and sales "
+      damp: "Beheerder/Barman responsible for administration, inventory control en sales."
+      rand: "Temporarily worker at various jobs within retail, logistics and hospitality."
+      healthy: "Experience designer Designer prototype application"
+    paragraph: "On the age of 15 I got my first inbetween job at the Bijenkorf and ever since I've been active in sale/retailbusiness, logistics and hospitality. I've also been very active..."
+    educationtitle: "School"
+    education:
+      paragraph: "Gedwongen op jonge leeftijd een studie richting te kiezen koos ik voor iets dat mij bekend was en dat was detail-handel. Dat bleek achteraf toch niet te zijn wat ik wil en heb ik besloten mezelf om te scholen tot webdeveloper om een carrière te starten in de IT waar mijn intresses liggen."
+    motivationtitle: "About me"
+    motivationdes: "I am a Junior webdeveloper with a solid understanding of all aspects of development. I have a strong desire to improve my programming skills. "
+    skillstitle: "My Skills"
+    skillsdes: "These are the programming languages that I use. As a junior developer I build webapplications with ruby as the main back-end language. I have a solid understanding of the mvc model and a basic understanding of the CRUD methodes which improves by the day."
+    projects: 
+      title: "Projecten"
+      ruby: "RubyRubyRuby is het eindproject van de coding bootcamp. Dit project is bedoeld voor de RoR community. Op deze site kun je onder anders als developer reageren op vacatures die zijn geplaats door RoR werkgevers ook kun je andere developers vragen om hulp mocht je vastlopen met je code."
+      healthy: "HealthyWorkers is een bedrijf dat streeft naar het creëren van gezonde werkomgevingen en gezonde/gelukkige werknemers.."
+
+  
+  header: 
+    found: "Looking for a Ruby Developer?"
+    gevonden: "Stop looking.. You Found Me!"
+    who: "WHo the hell am I?"
+    env: "My Developer Tools"
+  
+
+  index:
+    about: 
+      title: "JUNIOR FULLSTACK RUBY ON RAILS DEVELOPER FROM AMSTERDAM"
+      p1: "Hallo mijn naam is Daemien Ho. In 2016 slaagde ik van als J.fullstack developer van Le Wagon(THE bootcamp coding school.) En nu kan ik coole websites bouwen"
+      p2: "Voor mijn developers carrière was ik druk op zoek naar mijn plek in de wereld. En wat blijkt!? Mijn plek is achter de computer. Waar ik eigenlijk altijd al was. En als ik daar niet was dan was ik aan het trainen om de nieuwe Roberto Carlos te worden. Voetbal is nog steeds een van mijn grootste passies die ik nu vaker binnen op de playstation beoefen dan buiten op het veld. Maar voor een sportieve activiteit kan je bij mij altijd aankloppen."
+      p3: "Nu ben ik naar een leuke plek waar ik coding skills kan toepassen en verder ontwikkelen, een plek waar ik de hele dag mag coden en een plek waar ik mag juichen als ik een geweldig stukje code heb geschreven. (ja.. soms doe ik dat). Het uit denken van een prototype en het coden van mock ups word ik blij van "
+      p4: "Dus... Geef mij een mock up/pitch en ik bouw die shit voor je! or I will die trying. Ik ben namelijk een superharde werker die doorgaat tot het uiterste"
+    
+  card:
+      cv: "Neem een kijkje op mijn CV. Dit zal je laten zien hoe geweldig ik ben als een ruby on rails developer."
+      portofolio: "Neem ook eens een kijkje in mijn portfolio. Hier wordt uiteraard nog altijd aan gewerkt. Alles is constant aan het veranderen dus houd het goed in de gaten anders mis je nog weleens wat. dit is zoals gebuikelijk tijdens de devlopment periode een voorbeeld stuk tekst om de layout van de pagina te bekijken en te editen naar mijn persoonlijke voorkeur van design. wat een onzin allemaal.. geeft je groot gelijk als je denkt dat dit allemaal onzin is dus nu zal ik stoppen met "
+      contact: "Voor vragen kunt je mij bereiken op het nummer 0611223344 of mailen naar dimmaaah@live.nl of verstuur gemakkelijk via mijn form een directe mail naar mijn inbox."
+    
+
+  project:
+    description_1: "Find vacancies that are relavant to you as a ruby programmer and apply at ease at RubyRubyRuby.com."
+    rubyrubyruby: "RubyRubyRuby."
+    rubyrubyruby_p1: "Find vacancies that are relavant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. After creating an account or login with linkedin, U can make a profile, upload your resume or vacancie and ask the ruby community for help."
+    rubyrubyruby_p2: "Tijdens het creëren van dit project heb ik geleerd om goed samen te werken door goed gebruik te maken van github. Onder andere door branches te maken, en te werken met pull requests en niet rechtstreeks op de masterbranch te pushen.  ook heb ik een beetje van de scrum methode geproeft door een vereenvoudigde versie toe te passen wat inhield dat we elke dag een duidelijke planning maakten en we goed gebruik maakten van trello. dit project heeft me ook een goed begrip van de mvc methode, crud methodes en dependencies "
+    rubyrubyruby_p3: "RubyRubyRuby Was mijn eindproject van de Le Wagon coding school. Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developers. bedankt.. het was mij een waar genoegen. Mijn doel is om dit project "
+    description_2: "Healthy Workers believes in improving the health and well-being of the working force. They create green and healthy offices. By working to improve your food, body, mind, and surroundings"
+    healthyworkers: "HealthyWorkers"
+    healthyworkers_p1: Met als doeleind; gezonde, gelukkige en productieve werknemers, creëert HealthyWorkers een groene en gezonde werkomgeving voor corporate bedrijven."
+    healthyworkers_p2: "Ik kreeg ik de kans om als experience designer mee te werken aan een design van een breinkrakend project namelijk het designen van een appdashboard dat het welzijn van de gebruiker dmv data input van sensoren en input van de gebruiker meet en daar een passend advies geeft. De doelstelling was om binnen 5 dagen een prototype te realiseren en feedback te ontvangen van potentiële gebruikers. Deze doelstelling hebben wij bereikt door methodes van google venture design sprint te implementeren"
+    healthyworkers_p3: "Tijdens deze week heb ik onwijs veel geleerd en een goed inzicht gekregen van verschillende aspecten van development, met de nadruk op expierence design. Hier heb ik waardevolle technieken geleerd zoals tijdbespaarde methodes om grote obstakels te tackelen, efficiënte manieren om snel ideeën te genereren, en nog veel meer."
+  
+
+  knop:
+    leesmeer: "Read more"
+    bezoek: "Check the code on Github"
+    bezoek2: "Go to HealthyWorkers"
+    bezoek3: "More information available @"
+
+
+    # By working to improve your food, body, mind, and surroundings. The dashboard lets you monitor the results in real time, and gives the insights you need to make continuous improvements.
+

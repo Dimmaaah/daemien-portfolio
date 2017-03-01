@@ -3,13 +3,13 @@ nl:
     title: 
       xp: "Werk Ervaring"
     school:
-      lewagon: "12 weken intensief fullstack development met HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails"
+      lewagon: "12 weken intensief fullstack development met HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku en Ruby on Rails"
       regio: "Ondernemend detailhandel "
       amstel: "Niets te vertellen over deze school."
     xp:
       nh: "Bedienings medewerker/ Gastheer. vrantwoordelijk voor ontvangst gasten."
       bijen: "Dit was mijn allereerste bijbaantje. Ik begon als logistiek/magazijn medewerker."
-      post: "Process operator verantwoordelijk voor het sorteren van post en het controleren van het productieproces." 
+      # post: "Process operator verantwoordelijk voor het sorteren van post en het controleren van het productieproces." 
       bart: "Stage/Verkoopmedewerker verantwoordelijk voor de verkoop."
       kvc: "Profvoetballer in het belofte team van KVC Westerlo."
       vvv: "Profvoetballer in het belofte team van VVV Venlo"
@@ -34,7 +34,7 @@ nl:
   header: 
     found: "OP ZOEK NAAR EEN RUBY DEVELOPER?"
     gevonden: "Zoek niet verder! want ik ben gevonden"
-    who: "Dit ben ik"
+    who: "Wie ben ik?"
     env: "Mijn developer tools"
   
 
@@ -61,11 +61,12 @@ nl:
     description_2: "Mee gewerkt als xp designer aan een design sprint. Om een prototype applicatie te uit te denken en designen."
     healthyworkers: "HealthyWorkers"
     healthyworkers_p1: Met als doeleind; gezonde, gelukkige en productieve werknemers, creëert HealthyWorkers een groene en gezonde werkomgeving voor corporate bedrijven."
-    healthyworkers_p2: "Ik kreeg ik de kans om als experience designer mee te werken aan een design van een breinkrakend project namelijk het designen van een appdashboard dat het welzijn van de gebruiker meet dmv data input van sensoren en input van de gebruiker. De doelstelling was om binnen 5 dagen een prototype te realiseren en feedback te ontvangen van potentiële gebruikers. Deze doelstelling hebben wij bereikt door methodes van google venture design sprint te implementeren"
+    healthyworkers_p2: "Ik kreeg ik de kans om als experience designer mee te werken aan een design van een breinkrakend project namelijk het designen van een appdashboard dat eem passemd advies kan geven over het welzijn van de gebruiker dmv data input van sensoren en input van de gebruiker. De doelstelling was om binnen 5 dagen een prototype te realiseren en feedback te ontvangen van potentiële gebruikers. Deze doelstelling hebben wij bereikt door methodes van google venture design sprint te implementeren"
     healthyworkers_p3: "Tijdens deze week heb ik onwijs veel geleerd en een goed inzicht gekregen van verschillende aspecten van development, met de nadruk op expierence design. Hier heb ik waardevolle technieken geleerd zoals tijdbespaarde methodes om grote obstakels te tackelen, efficiënte manieren om snel ideeën te genereren, en nog veel meer."
   
 
   knop:
+    leesmeer: "Lees meer"
     bezoek: "Bekijk de Code op Github"
     bezoek2: "Ga naar HealthyWorkers"
     bezoek3: "Meer informatie vind je op"
