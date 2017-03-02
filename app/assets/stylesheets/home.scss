@@ -37,21 +37,21 @@ body {
 }
 
 .div_icons {
-  height: 400px;
   justify-content: space-between;
   text-align: center;
 }
 
 
 
-.grey {
+#grey {
   background-color: #E1E1E1;
+  margin-bottom: 0px;
   -webkit-margin-bottom: 0px;
   min-height: 70px;
   -webkit-min-height: 70px;
   text-align: center;
-  max-height: 320px;
   padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .white {

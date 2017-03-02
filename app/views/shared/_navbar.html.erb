@@ -2,7 +2,7 @@
     <ul id="navbar-links">
       <li><%= link_to "DimmaaaH", root_path, class: "navbar_links" %></li>
       <li><%= link_to "Curriculum", my_curriculum_path, class: "navbar_links" %></li>
-      <li><%= link_to "Projects", projects_index_path, class: "navbar_links" %></li>
+      <li><%= link_to projects_index_path, class: "navbar_links" do %> <%= t 'knop.projecten' %> <% end %></li>
     
       <li class="pull-right"><%= link_to_unless_current image_tag("uk.png"), locale: "en" %></li>
       <li class="pull-right"><%= link_to_unless_current image_tag("nl.png"), locale: "nl" %></li>  
