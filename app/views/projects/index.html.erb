@@ -5,10 +5,11 @@
 <div class="container">
   <div id="new" class="row">
     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-      <div class="card">
+      <div class="card"><%= link_to projects_rubyrubyruby_path, class: "link1" do %>
       <img class="card-img-top" src="<%= image_path('rubyrubyruby.png') %>" />
         <div class="card-block">
           <h4 class="card-title">RubyRubyRuby</h4>
+          <% end %>
           <p class="card-text"><%= t'project.description_1' %></p>
           <%= link_to projects_rubyrubyruby_path, class: "btn btn-primary" do %>
           <%= t 'knop.leesmeer' %>
@@ -18,9 +19,11 @@
     </div>
   <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
     <div class="card">
+    <%= link_to projects_healthyworkers_path, class: "link1" do %>
       <img class="card-img-top" src="<%= image_path('healthyworkers.png') %>" />
       <div class="card-block">
         <h4 class="card-title">Healthy Workers</h4>
+        <% end %>
         <p class="card-text"><%= t 'project.description_2' %></p>
          <%= link_to projects_healthyworkers_path, class: "btn btn-primary" do %>
           <%= t 'knop.leesmeer' %>
@@ -31,3 +34,6 @@
 </div>
 </div>
 </div>
+
+
+<!-- #a web application made for ruby user to find or place vacancies relavant to ruby user. you can easily apply  -->
