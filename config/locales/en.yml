@@ -32,31 +32,31 @@ en:
     title: 
       xp: "WorkExperience"
     school:
-      lewagon: "12 weeks intense coding learning fullstack development with HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails"
+      lewagon: "12 weeks intense coding bootcamp learning fullstack development with HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails"
       regio: "Retail Business & Management "
       amstel: "Nothing to say about this school"
     xp:
-      nh: "Operating assistant/Host. responsible for reception guests. "
-      bijen: "My first job as a saleman/logistian. responsible for the staging of products and sales."
+      nh: "Operating assistant/host: responsible for reception guests. "
+      bijen: "Saleman/logistian: responsible for the staging of products and sales."
       # post: "Process operator verantwoordelijk voor het sorteren van post en het controleren van het productieproces." 
-      bart: "Trainee salesman responsible for selling toys."
+      bart: "Trainee salesman: responsible for selling toys."
       kvc: "Professional soccer player in the second team of KVC Westerlo."
       vvv: "Professional soccer player in the second team of VVV Venlo."
-      levi: "Salesman responsible for inventory control and sales "
-      damp: "Bartender/Administator responsible for administration, inventory control en sales."
+      levi: "Salesman: responsible for inventory control and sales "
+      damp: "Bartender/administator: responsible for administration, inventory control en sales."
       rand: "Temporarily worker at various jobs within retail, logistics and hospitality."
-      healthy: "Experience designer Designer prototype application"
-    paragraph: "On the age of 15 I got my first inbetween job at the Bijenkorf and ever since I've been active in sale/retailbusiness, logistics and hospitality. I've also been very active..."
+      healthy: "Experience designer: Designer prototype application"
+    paragraph: "Mainly I've been active on sporting ground. besides my sportactivities on professina level I've developt experience in sales/logistics and hospitality."
     educationtitle: "School"
     education:
-      paragraph: "Forced to choose a study direction at a young age I chose the direction which I was familiar with, retail business. Which in turn turned out to be a mistake. So now I decided to retrain myself to start a carreer in IT where I found my interest."
+      paragraph: "Forced to choose a study direction at a young age I chose the direction which I was familiar with: retail business. This turn turned out to be a mistake. So now I decided to retrained myself as junior fullstack web developer."
     motivationtitle: "About me"
     motivationdes: "I am a Junior webdeveloper with a solid understanding of all aspects of development. I have a strong desire to improve my programming skills. "
     skillstitle: "My Skills" 
-    skillsdes: "These are the programming languages that I use. As a junior developer I build webapplications with ruby as the main back-end language. I have a solid understanding of the mvc model and a basic understanding of the CRUD methodes which improves by the day."
+    skillsdes: "As a junior developer I build web applications with ruby as the main back-end language. I have a solid knowledge of the MVC model and CRUD methodes. I make use of the underlying languages/libraries/frameworks:"
     projects: 
       title: "Projects"
-      ruby: "Build a platform where ruby developers can find relavant vacancies and apply. After creating an account or login with linkedin, U can make a profile, upload your resume or vacancy and ask the ruby community for help."
+      ruby: "Build a platform where ruby developers can find relevant vacancies and apply. After creating an account or login with linkedin, U can make a profile, upload your resume or vacancy and ask the ruby community for help."
       healthy: "Participated as a experience designer, designing a prototype application that contributes to a healthy work environment."
 
   
@@ -82,9 +82,9 @@ en:
     
 
   project:
-    description_1: "Find vacancies that are relavant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. It is just as easy for recruiters/employers to find a ruby developer and upload their vacancies"
+    description_1: "Find vacancies that are relevant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. It is just as easy for recruiters/employers to find a ruby developer and upload their vacancies"
     rubyrubyruby: "RubyRubyRuby."
-    rubyrubyruby_p1: "Find vacancies that are relavant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. After creating an account or login with linkedin, U can make a profile, upload your resume or vacancie and ask the ruby community for help."
+    rubyrubyruby_p1: "Find vacancies that are relevant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. After creating an account or login with linkedin, U can make a profile, upload your resume or vacancie and ask the ruby community for help."
     rubyrubyruby_p2: "During the creation of this platform I've learned how to collaborate with other developers and how to contribute to a project by the use of Github. We have learned to create branches, pull requests and not to push directly into the master-branch to prevent conflicts. We also implemented a simplefied version of scrum what meant discussing a clear goal of the day and making good use of trello which gives a clear overview of the progress of the applicaton. This project gave me solid knowlegde about the MVC model and the CRUD Methodes."
     rubyrubyruby_p3: "RubyRubyRuby was my eindproject from the Le Wagon coding school. This project is developt by 3 Junior developers/ Elias, Umer & Daemien. I really enjoyed working together with them on this project. Thank you guys."
     description_2: "HealthyWorkers believes in improving the health and well-being of the working force. They create green and healthy offices. By working to improve your food, body, mind, and surroundings"

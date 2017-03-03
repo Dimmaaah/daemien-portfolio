@@ -31,7 +31,7 @@ nl:         #curriculum
     motivationtitle: "Over mezelf"
     motivationdes: "Ik ben een junior webdeveloper met kennis van alle aspecten van front-end, back-end en database development. Ik heb een sterk verlangen om mijn ontwikkel vaardigheden verder uit te breiden en mezelf te specialiseren in Ruby development. In de verre toekomst hoop ik deel uit te maken van open source projecten."
     skillstitle: "Vaardigheden"
-    skillsdes: "Als junior webdeveloper bouw ik webapplicaties met Ruby als back-end taal. Ik heb solide kennis van de mvc-ontwerpmethode en een kennis van de CRUD methodes. Ik maak gebruik van de onderstaande programmeertalen/libraries/frameworks: "
+    skillsdes: "Als junior webdeveloper bouw ik webapplicaties met Ruby als back-end taal. Ik heb solide kennis van de mvc-ontwerpmethode en de CRUD methodes. Ik maak gebruik van de onderstaande programmeertalen/libraries/frameworks: "
     projects: 
       title: "Projecten"
       ruby: "Lead developer van het project RubyRubyRuby. In samenwerking met 2 andere junior developers een platform voor de Ruby gemeenschap gebouwd."
