@@ -33,7 +33,7 @@ en:
       xp: "WorkExperience"
     school:
       lewagon: "12 weeks intense coding bootcamp learning fullstack development with HTML, CSS, Bootstrap, JavaScript, jQuery, SQL, git, GitHub, Heroku and Ruby on Rails"
-      regio: "Retail Business & Management "
+      regio: "Retail Business & Management. "
       amstel: "Nothing to say about this school"
     xp:
       nh: "Operating assistant/host: responsible for reception guests. "
@@ -42,16 +42,16 @@ en:
       bart: "Trainee salesman: responsible for selling toys."
       kvc: "Professional soccer player in the second team of KVC Westerlo."
       vvv: "Professional soccer player in the second team of VVV Venlo."
-      levi: "Salesman: responsible for inventory control and sales "
+      levi: "Salesman: responsible for inventory control and sales. "
       damp: "Bartender/administator: responsible for administration, inventory control en sales."
       rand: "Temporarily worker at various jobs within retail, logistics and hospitality."
-      healthy: "Experience designer: Designer prototype application"
+      healthy: "Experience designer: Designer prototype application."
     paragraph: "Mainly I've been active on sporting ground. besides my sportactivities on professina level I've developt experience in sales/logistics and hospitality."
     educationtitle: "School"
     education:
       paragraph: "Forced to choose a study direction at a young age I chose the direction which I was familiar with: retail business. This turn turned out to be a mistake. So now I decided to retrained myself as junior fullstack web developer."
     motivationtitle: "About me"
-    motivationdes: "I am a Junior webdeveloper with a solid understanding of all aspects of development. I have a strong desire to improve my programming skills. "
+    motivationdes: "I am a Junior webdeveloper with a knowledge of all aspects of front-end and back-end development. I have a strong desire to improve my programming skills and specialise in Ruby development. "
     skillstitle: "My Skills" 
     skillsdes: "As a junior developer I build web applications with ruby as the main back-end language. I have a solid knowledge of the MVC model and CRUD methodes. I make use of the underlying languages/libraries/frameworks:"
     projects: 
@@ -82,19 +82,20 @@ en:
     
 
   project:
-    description_1: "Find vacancies that are relevant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. It is just as easy for recruiters/employers to find a ruby developer and upload their vacancies"
+    description_1: "Find vacancies that are relevant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. It is just as easy for recruiters/employers to find a ruby developer and upload their vacancies."
     rubyrubyruby: "RubyRubyRuby."
-    rubyrubyruby_p1: "Find vacancies that are relevant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. After creating an account or login with linkedin, U can make a profile, upload your resume or vacancie and ask the ruby community for help."
-    rubyrubyruby_p2: "During the creation of this platform I've learned how to collaborate with other developers and how to contribute to a project by the use of Github. We have learned to create branches, pull requests and not to push directly into the master-branch to prevent conflicts. We also implemented a simplefied version of scrum what meant discussing a clear goal of the day and making good use of trello which gives a clear overview of the progress of the applicaton. This project gave me solid knowlegde about the MVC model and the CRUD Methodes."
-    rubyrubyruby_p3: "RubyRubyRuby was my eindproject from the Le Wagon coding school. This project is developt by 3 Junior developers/ Elias, Umer & Daemien. I really enjoyed working together with them on this project. Thank you guys."
-    description_2: "HealthyWorkers believes in improving the health and well-being of the working force. They create green and healthy offices. By working to improve your food, body, mind, and surroundings"
+    rubyrubyruby_p1: "Find vacancies that are relevant to you as a ruby programmer and apply at ease at RubyRubyRuby.com. Create an account or login with LinkedIn, update your profile, upload your resume or vacancy or ask the ruby community for help."
+    rubyrubyruby_p2: "RubyRubyRuby was my final project at the Le Wagon coding school, which I have worked on with 2 fellow students. ."
+    rubyrubyruby_p3: "During the creation of this platform I have learned how to collaborate with other developers and how to contribute to a project by the use of Github. We have learned to create branches, pull requests and not to push directly into the master-branch to prevent conflicts. We also implemented a simplified version of scrum. This project gave me solid knowlegde about the MVC model and the CRUD Methodes."
+    description_2: "HealthyWorkers believes in 'healthy, happy and productive employees' by creating green and healthy work environments for big corporates."
     healthyworkers: "HealthyWorkers"
-    healthyworkers_p1: "HealthyWorkers believes in 'Healthy, happy and productive employees' By working to improve mind, body, food and surroundings, HealthyWorkers creates green and healthy workenvironments for big corporates "
-    healthyworkers_p2: "As a developer you're often not part of the design process of an application. Now I got the chance to be part of a braincracking project as an experience designer. The PITCH: An application Dashboard that provides personal/relavant advice about the well-being of the user. This advice is based on data input from the user, data input from sensors and data from external api's. The goal was to build a prototype within 5 days and receive feedback from potential users. We reached this goal by implementing methods from Google Venture design sprint."
-    healthyworkers_p3: "I've learned alot during this week and got clear insights from different aspects of development, emphasizing experience design. I've learned some great techniques like, time saving methodes to tackle big obstackles, efficient ways to quickly generate ideas and alot more."
+    healthyworkers_p1: "HealthyWorkers believes in 'healthy, happy and productive employees' by working to improve mind, body, food and surroundings, HealthyWorkers creates green and healthy workenvironments for big corporates "
+    healthyworkers_p2: "As a developer you're often not part of the design process of an application. Now I got the chance to be part of a braincracking project as an experience designer. The goal was to build a prototype within 5 days and receive feedback from potential users. We reached this goal by implementing methods from Google Venture design sprint."
+    healthyworkers_p3: "I've learned alot during this week and got clear insights from different aspects of development, emphasizing experience design."
   
 
   knop:
+    all: "See all Projects."
     projecten: "Projects"
     leesmeer: "Read more"
     bezoek: "Check the code on Github"

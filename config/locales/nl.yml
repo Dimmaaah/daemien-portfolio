@@ -27,15 +27,15 @@ nl:         #curriculum
     paragraph: "Ik ben voornamelijk actief geweest op sportgebied, daarnaast heb ik vooral veel ervaring opgedaan in de sales/detailhandel, logistiek en horeca."
     educationtitle: "School"
     education:
-      paragraph: "Gedwongen op jonge leeftijd een studie richting te kiezen koos ik voor iets dat mij bekend was: detail-handel. Dat bleek achteraf toch niet te zijn wat ik wil en heb ik mezelf omgeschoold tot webdeveloper."
+      paragraph: "Gedwongen op jonge leeftijd een studierichting te kiezen, koos ik voor iets dat mij bekend was: detail-handel. Dat bleek achteraf toch niet te zijn wat ik wil en heb ik mezelf omgeschoold tot web developer."
     motivationtitle: "Over mezelf"
-    motivationdes: "Ik ben een junior webdeveloper met kennis van alle aspecten van front-end, back-end en database development. Ik heb een sterk verlangen om mijn ontwikkel vaardigheden verder uit te breiden en mezelf te specialiseren in Ruby development. In de verre toekomst hoop ik deel uit te maken van open source projecten."
+    motivationdes: "Ik ben een junior fullstack web developer met kennis van alle aspecten van front-end, back-end en database development. Ik heb een sterk verlangen om mijn vaardigheden verder uit te breiden en me te specialiseren in Ruby development."
     skillstitle: "Vaardigheden"
     skillsdes: "Als junior webdeveloper bouw ik webapplicaties met Ruby als back-end taal. Ik heb solide kennis van de mvc-ontwerpmethode en de CRUD methodes. Ik maak gebruik van de onderstaande programmeertalen/libraries/frameworks: "
     projects: 
       title: "Projecten"
       ruby: "Lead developer van het project RubyRubyRuby. In samenwerking met 2 andere junior developers een platform voor de Ruby gemeenschap gebouwd."
-      healthy: "Meegedaan aan een Google Venture Design sprint. Als een experience designer een prototype designed dat bijdraagt aan een gezonde werkomgeving."
+      healthy: "Meegedaan aan een Google Venture Design sprint. Als een experience designer een prototype ontwikkeld dat bijdraagt aan een gezonde werkomgeving."
         
 
         #Homepage
@@ -61,19 +61,20 @@ nl:         #curriculum
     
                       #projects
   project:
-    description_1: "Als Ruby gebruiker relevante vacatures/developers vinden en/of vraag de Ruby gemeenschap om hulp. Dat kan op RubyRubyRuby.com."
     rubyrubyruby: "RubyRubyRuby."
-    rubyrubyruby_p1: "Als Ruby developer met al het gemakt van de wereld vacatures vinden die voor jouw van toepassing zijn. dat kan op rubyrubyruby.com. Na het aanmaken van een account of in te loggen met je linkedin. kun je een profiel aanmaken, een cv uploaden of vacature uploaden en je kunt de ruby community om hulp vragen."
-    rubyrubyruby_p2: "Tijdens het creëren van dit project heb ik geleerd om goed samen te werken door gebruik te maken van Github. We hebben geleerd om conflicten in de code te voorkomen door branches te maken en te werken met pull requests dus niet rechtstreeks op de master-branch te pushen.  Ook hebben wij een vereenvoudigde versie toegepast, wat inhield dat we elke dag onze doelstelling bespraken en we goed gebruik maakten van trello dat de progressie van een project heel duidelijk weergeeft. Dit project heeft me ook een begrip van de mvc methode, crud methodes en dependencies. "
-    rubyrubyruby_p3: "RubyRubyRuby Was mijn eindproject van de Le Wagon coding school. Dit project is opgebouwd door 3 Junior developers/ Elias, Umer & Daemien. Als developer heb ik echt genoten van de samenwerking en de inzet van mijn mede developers. bedankt.. het was mij een waar genoegen."
-    description_2: "Met als doeleind 'gezonde, gelukkige en productieve werknemers', creëert HealthyWorkers een groene en gezonde werkomgeving voor corporate bedrijven"
+    description_1: "Vind vacatures die relevant zijn voor jou als ruby developer en solliciteer met gemak op RubyRubyRuby.com. Het is net zo gemakkelijk voor recruiters/werkgevers om een ruby programmeurs te vinden en vacatures te uploaden."
+    rubyrubyruby_p1: "Vind vacatures die relevant zijn voor jou als ruby developer en solliciteer met gemak op RubyRubyRuby.com. Het is net zo gemakkelijk voor recruiters/werkgevers om een ruby programmeurs te vinden en vacatures te uploaden. Maak een account aan of login met LinkedIn, update jouw profiel, upload jouw curriculum of vacature of vraag de Ruby gemeenschap om hulp."
+    rubyrubyruby_p2: "RubyRubyRuby was mijn eindprpoject van Le wagon coding school, die ik met 2 mede studenten heb ontwikkeld. "
+    rubyrubyruby_p3: "Tijdens de ontwikkeling van dit platform heb ik geleerd om samen te werken met collega developers en bij te dragen aan een project door gebruikt te maken van Github. We hebben geleerd om te werken met branches, pull requests en niet direct op de master-branch te pushen om conflicten te voorkomen. Wij hebben ook een vereenvoudigde versie van scrum toegepast. Door dit project heb ik solide kennis opgebouwd van de MVC model en CRUD methodes."
     healthyworkers: "HealthyWorkers"
+    description_2: "Met als doeleind 'gezonde, gelukkige en productieve werknemers', creëert HealthyWorkers een groene en gezonde werkomgeving voor corporate bedrijven."
     healthyworkers_p1: "Met als doeleind 'gezonde, gelukkige en productieve werknemers', creëert HealthyWorkers een groene en gezonde werkomgeving voor corporate bedrijven."
     healthyworkers_p2: "Als developer maak je niet vaak het design process van een applcatie mee. Nu kreeg de kans om als experience designer mee te werken aan het design van een breinkrakend project. De PITCH: Een applicatie dashboard dat een persoonlijk/passend advies geeft over het welzijn van de gebruiker. Dit advies is gebasseerd op data afkomstig van de input van de gebruiker, input van sensoren en data van externe Api's. De doelstelling was om binnen 5 dagen een prototype te realiseren en feedback te ontvangen van potentiële gebruikers. Deze doelstelling hebben wij bereikt door methodes van Google Venture design sprint te implementeren."
     healthyworkers_p3: "Tijdens deze week heb ik onwijs veel geleerd en goed inzicht gekregen van verschillende aspecten van development, met de nadruk op expierence design. Hier heb ik waardevolle technieken geleerd zoals, tijd besparende methodes om grote obstakels te tackelen, efficiënte manieren om snel ideeën te genereren en nog veel meer."
   
             #buttons
   knop:
+    all: "Bekijk Projecten."
     projecten: "Projecten"
     leesmeer: "Lees meer"
     bezoek: "Bekijk de Code op Github"
@@ -83,4 +84,5 @@ nl:         #curriculum
 
 
     # By working to improve your food, body, mind, and surroundings. The dashboard lets you monitor the results in real time, and gives the insights you need to make continuous improvements.
+
 
