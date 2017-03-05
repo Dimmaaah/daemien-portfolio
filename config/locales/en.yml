@@ -71,7 +71,7 @@ en:
     about: 
       title: "JUNIOR FULLSTACK RUBY ON RAILS DEVELOPER FROM AMSTERDAM"
       p1: "My name is Daemien Ho. In 2016 I graduated as a Junior fullstack ruby developer from Le Wagon (The bootcamp coding school). And now I can build cool websites."
-      p2: "Before my career as a developer I was busy trying find my place in the world, turns out that my place in the world is behind the computer. Where I've been all allong, and if I wasn't there then I was training hard to become the next Roberto Carlos. Football is still one of my greatest passions which I now practice more often on the playstation instead of the pitch. Although I'm always in for an outdoor activity."
+      p2: "Before my career as a developer I was busy trying find my place in the world. Turns out that my place in the world is behind the computer. Where I've been all allong, and if I wasn't there then I was training hard to become the next Roberto Carlos. Football is still one of my greatest passions which I now practice more often on the playstation instead of the pitch. Although I'm always in for an outdoor activity."
       p3: "Now I'm looking for a fun place where I can apply and improve my skills, a place where I may code all day long and a place where I can cheer when I've written some awesome code... And yes I do that sometimes!!"
       p4: "Designing a prototype and building mock-ups is what I do for fun. So give me a mock-up/pitch and I will build it for you or die trying... That is the type of mentality I carry."
     
@@ -99,5 +99,6 @@ en:
     projecten: "Projects"
     leesmeer: "Read more"
     bezoek: "Check the code on Github"
+    bezoek1: "Go To RubyRubyRuby"
     bezoek2: "Go to HealthyWorkers"
     bezoek3: "More information available @"
